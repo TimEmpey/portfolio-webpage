@@ -26,6 +26,6 @@ _Organizes all portfolio pieces into one neat place in an easy to read manner, a
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_[MIT](https://en.wikipedia.org/wiki/MIT_License)_
 
 Copyright (c) _2022_ _Timothy Empey_
