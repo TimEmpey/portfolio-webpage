@@ -19,7 +19,7 @@ h4{
 }
 .header{
   background-color: grey;
-  margin: 20px;
+  margin: 10px;
   border: solid black;
   padding: 30px;
   border-radius: 15px;
@@ -33,4 +33,9 @@ img{
 }
 .contact{
   margin-top: 40px;
+}
+.container{
+  background-color: lightgrey;
+  padding: 80px;
+  border: solid black;
 }
