@@ -2,8 +2,15 @@ body{
   font-family: optima;
   background: whitesmoke;
 }
+button{
+  font-family: calibri;
+  float: right;
+  border-radius: 15px;
+  background-color: skyblue;
+  height: 40px;
+}
 h1{
-  font-size: 50px;
+  font-size: 60px;
 }
 h2{
   color: darkred;
@@ -21,7 +28,7 @@ h4{
   background-color: grey;
   margin: 10px;
   border: solid black;
-  padding: 30px;
+  padding: 50px;
   border-radius: 15px;
 }
 .job{
