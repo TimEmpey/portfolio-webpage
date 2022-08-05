@@ -1,10 +1,6 @@
 body{
   font-family: optima;
 }
-h1{
-  color: darkred;
-  font-size: 40px;
-}
 h2{
   color: darkred;
   font-size: 40px;
@@ -12,4 +8,14 @@ h2{
 h3{
   color: darkred;
   font-size: 40px;
+}
+h4{
+  color: darkred;
+  font-size: 40px;
+}
+.header{
+  background-color: grey;
+  margin: 20px;
+  border: solid black;
+  padding: 30px;
 }
