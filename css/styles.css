@@ -18,7 +18,12 @@ h4{
   margin: 20px;
   border: solid black;
   padding: 30px;
+  border-radius: 15px;
 }
 .job{
   color: darkred;
+}
+img{
+  border: solid black;
+  border-radius: 15px;
 }
