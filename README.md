@@ -2,7 +2,7 @@
 
 #### By _**Timothy Empey**_
 
-#### _Organization site for my portfolio_
+#### _https://timempey.github.io/portfolio-webpage/_
 
 ## Technologies Used
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_Organizes all portfolio pieces into one neat place in an easy to read manner, additional pages such as the gallery are accesible at the bottom of the page by clicking the link to the corrisponding page (ex. press the word Gallery at the bottom of the page and you'll be redirected to the gallery webpage)._
+_Organizes all portfolio pieces into one neat place in an easy to read manner, additional pages such as resources and current couse are accesible using the buttons in the top right corner. Simply pressing them will bring you to the corresopniding pages._
 
 ## Setup/Installation Requirements
 
